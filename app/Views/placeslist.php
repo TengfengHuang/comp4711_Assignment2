@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title>DGPT4711 Lab 04</title>
+		<title>DGPT4711_Assignment1</title>
 	</head>
 	<body>
 		<h1>List of some vehicle information on NFS_14</h1>
