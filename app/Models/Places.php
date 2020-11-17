@@ -11,7 +11,7 @@ use App\Models\Simple\CSVModel;
 
 class Places {
     
-protected $origin = WRITEPATH . 'data/carData.xml';
+protected $origin = WRITEPATH . 'data/carData.json';
 protected $keyField = 'id';
 protected $validationRules = [];
 
