@@ -6,7 +6,7 @@ namespace App\Models;
  * Note that we don't have to extend CodeIgniter's model for now
  */
 
-use App\Models\Simple\CSVModel;
+use App\Models\Simple\JSONModel;
 
 
 class Places {
