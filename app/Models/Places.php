@@ -8,7 +8,12 @@ namespace App\Models;
 
 use App\Models\Simple\CSVModel;
 
+
 class Places {
+    
+protected $origin = WRITEPATH . 'data/carData.xml';
+protected $keyField = 'id';
+protected $validationRules = [];
 
     //mock data : an array of records
     protected $data = [
