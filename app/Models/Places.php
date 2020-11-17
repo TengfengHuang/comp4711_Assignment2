@@ -6,6 +6,8 @@ namespace App\Models;
  * Note that we don't have to extend CodeIgniter's model for now
  */
 
+use App\Models\Simple\CSVModel;
+
 class Places {
 
     //mock data : an array of records
