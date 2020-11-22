@@ -26,7 +26,7 @@
             "image" : "Porsche.jpg"
 },
 {
-    "Country_from" : "Italian",
+            "Country_from" : "Italian",
             "id" : "3",
             "name" : "Lamborghini Gallardo LP560-4 Spyder",
             "Country_place" : "Italy",
@@ -37,5 +37,57 @@
             "gearbox" : "e-gear （Exclusive technology）",
             "acceleration_time" : "4s",
             "image" : "Lamborghini.jpg"
+},
+{
+            "Country_from" : "American",
+            "id" : "4",
+            "name" : "Chevrolet Corvette ZO6",
+            "Country_place" : "America",
+            "description" : "Chevrolet Corvette is an American national treasure class supercar, is the most high-end supercar brand of GENERAL Motors.Born in 1953, this series has spawned 7 generations of models, the latest of which is the C7 model. As an American-style supercar, the Corvette Z06 is of great value and is regarded as a classic in the world.The 505Hp horsepower, 470LB-FT torque, and 7.0 super capacity (13 models), 0-100 in just 3.5 seconds, and a top speed of 320 km/h. Like the rest of the Corvette series, the  ‘Z06’ almost never-ending super rear acceleration is a perfect inheritance.",
+            "link" : "https://www.chevroleteurope.com/en/",
+            "hoursepower" : "505 horsepower",
+            "engine_type" : "7.0L v8",
+            "gearbox" : "8AT or 7MT",
+            "acceleration_time" : "3.5s",
+            "image" : "Chevrolet.jpg"
+},
+{
+            "Country_from" : "American",
+            "id" : "5",
+            "name" : "Ford GT-2006",
+            "Country_place" : "America",
+            "description" : "The Ford GT is a mid-rear-drive supercar owned by Ford. The new Ford GT sports car will be equipped with Michelin Pilot Sport Cup 2 tires. Car is the appearance of the prototype of the 20th century‘s classic super car ford original GT40, from the appearance. The GT is almost completely recover original GT40 racing, ford GT using the 5.4 liter displacement after, to strengthen the mechanical turbocharged V6 engine, the strong engine, speed only when 3750 revolutions can broke out in 678), a powerful torque, which makes the 550 horses (6500 RPM) monster to accelerate from 0 to 160 kilometers per hour in just 7.4 seconds, top speed by electronic speed limit at 330 kilometers per hour.",
+            "link" : "https://www.ford.com/performance/gt/",
+            "hoursepower" : "550 horsepower",
+            "engine_type" : "5.4L v8",
+            "gearbox" : "6MT",
+            "acceleration_time" : "3.2s",
+            "image" : "Ford.jpg"
+},
+{
+            "Country_from" : "Swedish",
+            "id" : "6",
+            "name" : "Koenigsegg CCX",
+            "Country_place" : "Sweden",
+            "description" : "Official figures have been released and the answer is: 'Koenigsegg CCX is no match for Veyron in the race to the top.' Koenigsegg said the CCX’s ultimate speed limit was no more than 395 km/h, while Bugatti claimed that the Veyron could reach 407 km/h and that the CCX‘s 100-km sprint speed (3.2 seconds) was a step behind. But Koenigsegg also had his killer card: an excellent power-to-weight ratio. The car weighs 1,280 kilograms and has a 4.6-liter engine with a maximum power of 806 horsepower and 920 nm of torque. The CCX can go from a standstill to a quarter mile in 9.9 seconds and reach the finish line at 235 km/h.It only takes 31 meters to go from 100 kilometers per hour to a complete standstill.",
+            "link" : "https://www.koenigsegg.com/",
+            "hoursepower" : "806 horsepower",
+            "engine_type" : "4.6L v8",
+            "gearbox" : "6MT",
+            "acceleration_time" : "3.2s",
+            "image" : "Koenigsegg.jpg"
+},
+{
+            "Country_from" : "France",
+            "id" : "7",
+            "name" : "Bugatti Veyron 16.4（Grand Sport）",
+            "Country_place" : "French",
+            "description" : "The Veyron 16.4 Grand Sport has the same mechanical infrastructure as the Coupe’s Veyron 16.4, with an 8.0-liter W16 engine that delivers 1,001 horsepower and the same 407 km/h when the roof is closed and 360 km/h when the roof is open. And the fan can remove the receive top independently, using the lightweight transparent PC plastic material.  In addition,in order to make up the body rigidity, Bugatti specially in the frame structure of carbon fiber, the side beams, the transmission system through strengthened structure and part B column. In order to increase the vehicle‘s ability to resist distortion, to give the passengers, the most complete security protection.",
+            "link" : "https://www.bugatti.com/",
+            "hoursepower" : "1001 horsepower",
+            "engine_type" : "8.0L w16",
+            "gearbox" : "DSG dual clutch transmission",
+            "acceleration_time" : "2.5s",
+            "image" : "Bugatti.jpg"
 }
 ]
