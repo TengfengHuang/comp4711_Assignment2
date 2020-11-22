@@ -9,14 +9,14 @@ namespace App\Models;
 use App\Models\Simple\JSONModel;
 
 
-class Places {
+class Places extends  JSONModel{
     
 protected $origin = WRITEPATH . 'data/carData.json';
 protected $keyField = 'id';
 protected $validationRules = [];
 
     //mock data : an array of records
-    protected $data = [
+   /* protected $data = [
         '1' => [
             'Country_from' => 'Japanese',
             'id' => 1,
@@ -136,5 +136,5 @@ In order to increase the vehicle‘s ability to resist distortion, to give the p
         }
         return null;
     }
-
+*/
 }

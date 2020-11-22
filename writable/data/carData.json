@@ -1,0 +1,41 @@
+[
+{
+     "Country_from" : "Japanese",
+            "id" : "1",
+            "name" : "Nissan 370Z（Z34）",
+            "Country_place" : "Japen",
+            "description" : "The new 370Z USES the VQ37VHR powertrain -- a 3.7-liter V6 that delivers 332 horsepower and provides fuel economy of 26 MPG on the highway.The 332 HP power will be transferred to the rear wheels of the 370Z through a 7 speed automatic transmission or a 6 speed manual transmission.More significantly, the 6-speed 370Z is the first car with a manual transmission and a matching system that synchronizes the speed of the low gear and speeds from 0-100km in 4.8 seconds!",
+            "link" : "https://www.nissanusa.com/vehicles/sports-cars/370z-coupe.html",
+            "hoursepower" : "332 horsepower",
+            "engine_type" : "3.7L （v6）",
+            "gearbox" : "CVT(analog 6th gear)",
+            "acceleration_time" : "4.8s",
+            "image" : "Nissan.jpg"
+},
+{
+            "Country_from" : "German",
+            "id" : "2",
+            "name" : "Porsche 911 Turbo S Cabriolet（997）",
+            "Country_place" : "Germany",
+            "description" : "The Porsche 911 series, designed by Ferdinand Alexander Porsche, is a legendary model of Porsche.Its long history and every classic car have had a profound impact on generations.",
+            "link" : "https://www.porsche.cn/china/zh/models/911/911-turbo-models/911-turbo-s-cabriolet/",
+            "hoursepower" : "560 horsepower",
+            "engine_type" : "3.8L （Horizontally opposed 6 cylinders）",
+            "gearbox" : "7-Speed Dual clutch transmission (PDK)",
+            "acceleration_time" : "3.1s",
+            "image" : "Porsche.jpg"
+},
+{
+    "Country_from" : "Italian",
+            "id" : "3",
+            "name" : "Lamborghini Gallardo LP560-4 Spyder",
+            "Country_place" : "Italy",
+            "description" : "Gallardo LP560-4 Spyder is equipped with an all-aluminum alloy 5.2-liter V10 engine. With the help of in-cylinder direct injection and variable valve timing, the Gallardo LP560-4 Spyder can produce 560 maximum horsepower at 8000rpm and complete 0-100km/h acceleration sprint in 4 seconds, with a top speed of up to 324km/h.The 5.2-liter Engine of the LP560-4 Spyder is still based on the 5.0-liter Gallardo Spyder V10, but with the expansion of the exhaust volume and the change to an in-cylinder direct injection system, the V10 engine not only provides more power performance, but also meets the requirements of environmental protection and low fuel consumption.",
+            "link" : "https://www.lamborghini.com/cn-en/%E8%BD%A6%E5%9E%8B/huracan/huracan-evo-spyder",
+            "hoursepower" : "560 horsepower",
+            "engine_type" : "5.2L （v10）",
+            "gearbox" : "e-gear （Exclusive technology）",
+            "acceleration_time" : "4s",
+            "image" : "Lamborghini.jpg"
+}
+]
