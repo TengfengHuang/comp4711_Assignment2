@@ -32,7 +32,7 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Travel::index');
   $routes->get('/image/(:any)', 'Media::image/$1'); 
-$routes->get('/NFS_14','Travel::index');
+$routes->get('/Places','Travel::index');
 
   
 /**
